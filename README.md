@@ -9,6 +9,13 @@ downloaded immediately.
 
 ![jp25](https://user-images.githubusercontent.com/106551525/223290831-ce4e5ca1-bf67-45cd-b4b2-b47e811df32d.png)
 
+<table>
+  <tr>
+    <td>
+      <a href="ea-downloader.vercel.app">Use the app</a>
+    </td>
+  </tr>
+</table>
 
 ## Author
 
