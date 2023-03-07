@@ -1,4 +1,4 @@
-# EA-Downloader
+# EA Downloader
 A downloader with functionality to download any file like videos, images , pdf, etc...
 
 ## Description
