@@ -12,7 +12,7 @@ downloaded immediately.
 <table>
   <tr>
     <td>
-      <a href="ea-downloader.vercel.app">Use the app</a>
+      <a href="https://ea-downloader.vercel.app/">Use the app</a>
     </td>
   </tr>
 </table>
